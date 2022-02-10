@@ -1,0 +1,16 @@
+answer_data:  [{'IATA': 'GDL', 'City': 'Guadalajara', 'Price': '20'}, {'IATA': 'ACA', 'City': 'Acapulco', 'Price': '33'}, {'IATA': 'VER', 'City': 'Veracruz', 'Price': '34'}, {'IATA': 'CUN', 'City': 'CancÃºn', 'Price': '34'}, {'IATA': 'OAX', 'City': 'Oaxaca', 'Price': '33'}, {'IATA': 'ZIH', 'City': 'Ixtapa', 'Price': '34'}, {'IATA': 'MAD', 'City': 'Madrid', 'Price': '262'}, {'IATA': 'FRA', 'City': 'Frankfurt', 'Price': '308'}, {'IATA': 'GRU', 'City': 'Brasil', 'Price': '232'}, {'IATA': 'CDG', 'City': 'Paris', 'Price': '338'}, {'IATA': 'SXF', 'City': 'Berlin', 'Price': '42'}, {'IATA': 'STR', 'City': 'stuttgart', 'Price': '331'}]
+params:  {'fly_from': 'MEX', 'fly_to': 'GDL', 'dateFrom': '06/02/2022', 'dateTo': '06/08/2022'}
+Data:  {'GDL': 19}
+
+
+
+
+Cancún,CUN,34
+Oaxaca,OAX,33
+Ixtapa,ZIH,34
+Madrid,MAD,262
+Frankfurt,FRA,308
+Brasil,GRU,232
+Paris,CDG,338
+Berlin,SXF,42
+stuttgart,STR,331
